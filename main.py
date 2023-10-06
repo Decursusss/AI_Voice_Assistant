@@ -7,7 +7,7 @@ import pyaudio
 import wave
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'YOUR API KEY'
 
 engine = pyttsx3.init()
 
